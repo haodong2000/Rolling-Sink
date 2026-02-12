@@ -59,8 +59,9 @@ COMING SOON...
 ```
 sh shell_scripts/cuda_i.sh
 ```
-> - `i` $\in$ {`0`,`1`,`2`,`3`}
-> - The default video length is **5-minute**, which requires GPUs with $\geqslant$ **48GB** memory.
+> `i` $\in$ {`0`,`1`,`2`,`3`}
+> <br>
+> The default video length is **5-minute**, which requires GPUs with $\geqslant$ **48GB** memory.
 
 ## 🎓 Citation
 If you find our work useful in your research, please consider citing our paper🌹:
