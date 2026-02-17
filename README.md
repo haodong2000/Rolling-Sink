@@ -66,7 +66,12 @@ sh shell_scripts/cuda_i.sh
 ## 🎓 Citation
 If you find our work useful in your research, please consider citing our paper🌹:
 ```bibtex
-COMING SOON...
+@article{li2026rolling,
+  title={Rolling Sink: Bridging Limited-Horizon Training and Open-Ended Testing in Autoregressive Video Diffusion},
+  author={Li, Haodong and Liu, Shaoteng and Lin, Zhe and Chandraker, Manmohan},
+  journal={arXiv preprint arXiv:2602.07775},
+  year={2026}
+}
 ```
 
 ## 🤝 Acknowledgement
